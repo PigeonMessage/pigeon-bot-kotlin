@@ -21,7 +21,7 @@ Or for Maven:
 <dependency>
     <groupId>io.github.furka.pigeon</groupId>
     <artifactId>pigeon-bot</artifactId>
-    <version>1.0.0</version>
+    <version>0.1.0</version>
 </dependency>
 ```
 
