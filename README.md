@@ -11,7 +11,7 @@ Add the dependency to your `build.gradle.kts`:
 
 ```kotlin
 dependencies {
-    implementation("io.github.furka.pigeon:pigeon-bot:1.0.0")
+    implementation("io.github.furka.pigeon:pigeon-bot:0.1.0")
 }
 ```
 

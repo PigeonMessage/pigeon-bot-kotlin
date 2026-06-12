@@ -5,7 +5,7 @@ plugins {
 }
 
 group = "io.github.furka.pigeon"
-version = "1.0.0"
+version = "0.1.0"
 
 val ktor_version = "2.3.5"
 
@@ -37,7 +37,7 @@ publishing {
         create<MavenPublication>("maven") {
             groupId = "io.github.furka.pigeon"
             artifactId = "pigeon-bot"
-            version = "1.0.0"
+            version = "0.1.0"
 
             from(components["kotlin"])
             
